@@ -16,8 +16,12 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "browser-xml2js": "^0.4.19",
+    "buffer": "^6.0.3",
+    "cors-anywhere": "^0.4.4",
     "html-webpack-plugin": "^5.5.0",
+    "stream-browserify": "^3.0.0",
     "three": "^0.148.0",
-    "xml2js": "^0.4.23"
+    "timers-browserify": "^2.0.12"
   }
 }
